@@ -1,2 +1,10 @@
-#1.Developed a React based Social Media Analytics Frontend Web Application
-2.Developed Average Calculator HTTP Microservice
+# Social Media Analytics & Average Calculator Microservice  
+  
+
+### Social Media Analytics Frontend Web Application  
+
+### Average Calculator HTTP Microservice  
+
+
+
+
